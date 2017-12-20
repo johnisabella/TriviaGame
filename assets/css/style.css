@@ -1,0 +1,46 @@
+body {
+  background-image: url("../images/background5.jpg");
+  background-size: 33%;
+  background-repeat: repeat;
+}
+
+.game_container {
+  position: relative;
+  width: 50%;
+  height: auto;
+  margin: auto;
+  padding: 30px;
+  margin-top: 30px;
+  text-align: justify;
+  background-color: #a4b8d8;
+  border: 3px solid black;
+  border-radius: 25px;
+}
+
+#game_timer {
+  text-align: center;
+  text: red;
+}
+
+#game_scores1 {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+#game_scores2 {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+h5 {
+  text-align: center;
+}
+
+.heading {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 200%;
+  font-family: "Vast Shadow", cursive;
+  text-decoration: underline;
+}
